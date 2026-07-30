@@ -1,0 +1,19 @@
+package-lock.json
+  s_beb5e75cb4a140::t_ae0cdea8eef466 1-4880
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "53b2d07e7e6903b973838adf21a33abdb987cd9e",
+  "prompts": {},
+  "sessions": {
+    "s_beb5e75cb4a140": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_04bb1b53effeD7OuXwFwIam2Vz",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "James M Snell <jsnell@cloudflare.com>"
+    }
+  }
+}
