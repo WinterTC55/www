@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "wintertc-org",
+  "main": "./worker/index.ts",
+  "compatibility_date": "2026-07-30",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "not_found_handling": "none"
+  },
+  "vars": {
+    "REDIRECT_DOMAINS": "wintercg.org,wintertc.com",
+    "PRIMARY_DOMAIN": "wintertc.org"
+  }
+}

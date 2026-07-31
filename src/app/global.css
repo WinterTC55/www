@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+@theme inline {
+  --color-orange-200: #fed7aa;
+  --color-orange-300: #fdba74;
+  --color-orange-500: #fc7c00;
+  --color-orange-600: #ea580c;
+  --color-orange-700: #c2410c;
+}
