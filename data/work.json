@@ -28,6 +28,11 @@
       "name": "CLI API",
       "description": "A proposal standardizing common CLI APIs such as argv and environment variables.",
       "repo": "proposal-cli-api"
+    },
+    {
+      "name": "navigator Registry",
+      "description": "Track Web-interop details related to the global navigator and its various properties/methods.",
+      "repo": "navigator-registry"
     }
   ],
   "collaborations": [
