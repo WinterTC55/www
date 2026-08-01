@@ -264,6 +264,30 @@ export default function Faq() {
             in the WinterTC admin repo.
           </p>
         </div>
+        <div className="space-y-4">
+          <a href="#past-participation" id="past-participation">
+            <h2 className="text-2xl font-medium">Past Participation</h2>
+          </a>
+          <p>
+            The work of WinterTC (and its predecessor WinterCG) has included
+            participation from:
+          </p>
+          <ul style={{listStyleType: 'circle', paddingLeft: '1.75rem'}}>
+            <li><a target="new" className="text-orange-500 hover:text-orange-700 hover:underline" href="https://alibabagroup.com">Alibaba</a></li>
+            <li><a target="new" className="text-orange-500 hover:text-orange-700 hover:underline" href="https://azion.com">Azion</a></li>
+            <li><a target="new" className="text-orange-500 hover:text-orange-700 hover:underline" href="https://techatbloomberg.com">Bloomberg</a></li>
+            <li><a target="new" className="text-orange-500 hover:text-orange-700 hover:underline" href="https://bytedance.com">Bytedance</a></li>
+            <li><a target="new" className="text-orange-500 hover:text-orange-700 hover:underline" href="https://cloudflare.com">Cloudflare</a></li>
+            <li><a target="new" className="text-orange-500 hover:text-orange-700 hover:underline" href="https://deno.com">Deno</a></li>
+            <li><a target="new" className="text-orange-500 hover:text-orange-700 hover:underline" href="https://www.fastly.com">Fastly</a></li>
+            <li><a target="new" className="text-orange-500 hover:text-orange-700 hover:underline" href="https://igalia.com">Igalia</a></li>
+            <li><a target="new" className="text-orange-500 hover:text-orange-700 hover:underline" href="https://netlify.com">Netlify</a></li>
+            <li><a target="new" className="text-orange-500 hover:text-orange-700 hover:underline" href="https://nodejs.org">Node.js</a></li>
+            <li><a target="new" className="text-orange-500 hover:text-orange-700 hover:underline" href="https://shopify.dev">Shopify</a></li>
+            <li><a target="new" className="text-orange-500 hover:text-orange-700 hover:underline" href="https://suborbital.dev">Suborbital</a></li>
+            <li><a target="new" className="text-orange-500 hover:text-orange-700 hover:underline" href="https://vercel.com">Vercel</a></li>
+          </ul>
+        </div>
       </section>
     </>
   )

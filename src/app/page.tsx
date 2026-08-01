@@ -27,7 +27,6 @@ export default function Home() {
           Learn more.
         </a>
       </p>
-      <Logos />
     </>
   )
 }
