@@ -28,6 +28,11 @@
       "name": "CLI API",
       "description": "A proposal standardizing common CLI APIs such as argv and environment variables.",
       "repo": "proposal-cli-api"
+    },
+    {
+      "name": "import.meta Registry",
+      "description": "Serves as a registry for properties JavaScript runtimes or frameworks may add to import.meta",
+      "repo": "import-meta-registry"
     }
   ],
   "collaborations": [
