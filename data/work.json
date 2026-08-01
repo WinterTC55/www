@@ -4,40 +4,49 @@
       "name": "Minimum Common API",
       "description": "The minimal collection of Web Platform APIs that ought to be implemented by Web-interoperable runtimes.",
       "repo": "proposal-minimum-common-api",
-      "specification": "https://min-common-api.proposal.wintertc.org"
+      "specification": "https://min-common-api.proposal.wintertc.org",
+      "publication": "ecma-429",
+      "status": "standard"
     },
     {
       "name": "Runtime Keys",
       "description": "Runtime keys provide a consistent and predictable mechanism for identifying ECMAScript runtimes in a variety of contexts",
       "repo": "runtime-keys",
-      "specification": "https://runtime-keys.wintertc.org/"
+      "specification": "https://runtime-keys.wintertc.org/",
+      "publication": "ecma-tr-114",
+      "status": "technical-report"
     },
     {
       "name": "Sockets API",
       "description": "A proposal incubating an API for establishing TCP connections in non-browser JavaScript environments.",
       "repo": "proposal-sockets-api",
-      "specification": "https://sockets-api.proposal.wintertc.org"
+      "specification": "https://sockets-api.proposal.wintertc.org",
+      "status": "proposal"
     },
     {
       "name": "Iterable Streams",
       "description": "A proposal for a streaming interface designed around async iterables",
       "repo": "iter-streams",
-      "specification": "https://iter-streams.proposal.wintertc.org/"
+      "specification": "https://iter-streams.proposal.wintertc.org/",
+      "status": "proposal"
     },
     {
       "name": "CLI API",
       "description": "A proposal standardizing common CLI APIs such as argv and environment variables.",
-      "repo": "proposal-cli-api"
+      "repo": "proposal-cli-api",
+      "status": "proposal"
     },
     {
       "name": "import.meta Registry",
       "description": "Serves as a registry for properties JavaScript runtimes or frameworks may add to import.meta",
-      "repo": "import-meta-registry"
+      "repo": "import-meta-registry",
+      "status": "registry"
     },
     {
       "name": "navigator Registry",
       "description": "Track Web-interop details related to the global navigator and its various properties/methods.",
-      "repo": "navigator-registry"
+      "repo": "navigator-registry",
+      "status": "registry"
     }
   ],
   "collaborations": [
