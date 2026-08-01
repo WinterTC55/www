@@ -7,6 +7,12 @@
       "specification": "https://min-common-api.proposal.wintertc.org"
     },
     {
+      "name": "Runtime Keys",
+      "description": "Runtime keys provide a consistent and predictable mechanism for identifying ECMAScript runtimes in a variety of contexts",
+      "repo": "runtime-keys",
+      "specification": "https://runtime-keys.wintertc.org/"
+    },
+    {
       "name": "Sockets API",
       "description": "A proposal incubating an API for establishing TCP connections in non-browser JavaScript environments.",
       "repo": "proposal-sockets-api",
