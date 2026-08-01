@@ -13,6 +13,12 @@
       "specification": "https://sockets-api.proposal.wintertc.org"
     },
     {
+      "name": "Iterable Streams",
+      "description": "A proposal for a streaming interface designed around async iterables",
+      "repo": "iter-streams",
+      "specification": "https://iter-streams.proposal.wintertc.org/"
+    },
+    {
       "name": "CLI API",
       "description": "A proposal standardizing common CLI APIs such as argv and environment variables.",
       "repo": "proposal-cli-api"
